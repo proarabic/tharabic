@@ -1,13 +1,3 @@
-$(document).ready(function(){$(&quot;#info2&quot;).click(function(){$(&quot;#nav-menu1&quot;).toggleClass(&quot;shows&quot;);});});
-$(document).ready(function(){$(&quot;.toggleMenu&quot;).click(function(){$(&quot;.dropdowns&quot;).toggleClass(&quot;shows&quot;);});});
-$(document).ready(function(){$(&quot;.darkshadow&quot;).click(function(){$(&quot;.dropdowns&quot;).removeClass(&quot;shows&quot;);});});
-$(document).ready(function(){$(&quot;.darkshadow&quot;).click(function(){$(&quot;.darkshadow&quot;).removeClass(&quot;shows&quot;);});});
-$(document).ready(function(){$(&quot;.toggleMenu&quot;).click(function(){$(&quot;.darkshadow&quot;).toggleClass(&quot;shows&quot;);});});
-$(document).ready(function(){$(&quot;#showsearch,#showsearch2&quot;).click(function(){$(&quot;#search-box,#navigasi&quot;).toggleClass(&quot;shows&quot;);});});
-$(document).ready(function(){$(&quot;#showmenu&quot;).click(function(){$(&quot;#headermenu,.transhide&quot;).toggleClass(&quot;shows&quot;);});});
-$(document).ready(function(){$(&quot;.transhide&quot;).click(function(){$(&quot;#headermenu,.transhide&quot;).removeClass(&quot;shows&quot;);});});
-$(document).ready(function(){$(&quot;.showmore&quot;).click(function(){$(&quot;.bnm&quot;).toggleClass(&quot;shows&quot;);});});
-$(document).ready(function(){$(&quot;#showkomentarmenu&quot;).click(function(){$(&quot;#komentarmenu&quot;).toggleClass(&quot;shows&quot;);});});
 // Sub Nav
 var Script=function(){jQuery('.nav-menu2 .sub-menu > a').click(function(){var last=jQuery('.sub-menu.open',$('.nav-menu2'));last.removeClass("open");jQuery('.dropdown').addClass("open");jQuery('.dropdown',last).removeClass("open");jQuery('.sub',last).slideUp(300);var sub=jQuery(this).next();if(sub.is(":visible")){jQuery('.dropdown',jQuery(this)).removeClass("open");jQuery(this).parent().removeClass("open");sub.slideUp(300)}else{jQuery('.dropdown',jQuery(this)).addClass("open");jQuery(this).parent().addClass("open");sub.slideDown(300)}var o=($(this).offset());diff=300-o.top;if(diff>0)$(".nav-menu2").scrollTo("-="+Math.abs(diff),500);else $(".nav-menu2").scrollTo("+="+Math.abs(diff),500)})}();
 // Tab Menu Sidebar
