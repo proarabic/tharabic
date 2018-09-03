@@ -517,20 +517,3 @@ ul.post-pager-mqal{margin-bottom:10px;background-color:#fff;box-shadow:0 0 5px 0
 ul.post-pager-mqal li{width:49%;float:right;background-color:#fff;box-shadow:0 0 5px 0 rgba(53,53,53,0.6);padding:10px;font-weight:bold}
 ul.post-pager-mqal li.previous{margin-right:1%;width:50%;text-align:left}
 ul.post-pager-mqal li strong{display:block}
-/* CSS Button Style by  */
-.button{float:left;list-style:none;text-align:center;width:95%;margin:10px;padding:2px;font-size:14px;clear:both}
-.button ul{margin:0;padding:0}
-.button li{display:inline;margin:5px;padding:0;list-style:none}
-.button li a.demo,.button li a.download{position:relative;padding:9px 48px 9px 16px;background:#f39c12;color:#fff!important;font-weight:700;font-size:14px;text-align:center;text-transform:uppercase;letter-spacing:0.5px;border-radius:3px;box-shadow:0 1px rgba(0,0,0,0.1);line-height:normal;transition:all .3s}
-.dbutton li a.download{background:#3498db}
-.button li a.demo:hover,.button li a.download:hover{background:#666}
-.button li a.demo:active,.button li a.download:active{cursor:pointer}
-.button li a.demo:after,.button li a.download:after{content:'\f135';background:rgba(0,0,0,0.1);position:absolute;right:0;top:0;font-weight:normal;display:inline-block;margin:0 0 0 10px;color:#fff;padding:11px;font-family:fontawesome}
-.button li a.download:after{content:'\f019'}
-div#ads-top-target {max-width: 890px;}
-#related-ads {padding: 35px;background: #fff; box-shadow: 0 10px 30px rgba(0,0,0,0.2);overflow: hidden;margin: 15px 0;}
-article pre{padding:1rem;overflow:auto;margin:0;border-radius:3px;display:block;color:rgba(0,0,0,0.7);overflow-x:auto;font-size:1rem;line-height:1.45}
-article code{padding:.3em .4em;}
-article code,article pre{background-color:rgb(241, 241, 241)}
-article pre{ border: solid 1px #c1c1c1; }
-.comments li:before,.comments li:after{display: none}
