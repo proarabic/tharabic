@@ -1,0 +1,38 @@
+{
+  "name": "tharabictextaja",
+  "short_name": "tharabictxt",
+  "start_url": "https://www.tharabic.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#C51162",
+  "description": "مدونة تقدم كل ما هو جديد في البرامج و التطبيقات, دروس في سيو, قوالب و اضافات بلوج.",
+  "icons": [{
+    "src": "https://4.bp.blogspot.com/-2xRoT4k8-Fw/Xe6ApOkbVmI/AAAAAAAAIqA/D1tGAHt1cxsjNCPGDkMgnZ1f3z6jwl59gCK4BGAYYCw/s48/tharabic.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-2xRoT4k8-Fw/Xe6ApOkbVmI/AAAAAAAAIqA/D1tGAHt1cxsjNCPGDkMgnZ1f3z6jwl59gCK4BGAYYCw/s72/tharabic.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-2xRoT4k8-Fw/Xe6ApOkbVmI/AAAAAAAAIqA/D1tGAHt1cxsjNCPGDkMgnZ1f3z6jwl59gCK4BGAYYCw/s96/tharabic.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-2xRoT4k8-Fw/Xe6ApOkbVmI/AAAAAAAAIqA/D1tGAHt1cxsjNCPGDkMgnZ1f3z6jwl59gCK4BGAYYCw/s144/tharabic.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-2xRoT4k8-Fw/Xe6ApOkbVmI/AAAAAAAAIqA/D1tGAHt1cxsjNCPGDkMgnZ1f3z6jwl59gCK4BGAYYCw/s192/tharabic.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-2xRoT4k8-Fw/Xe6ApOkbVmI/AAAAAAAAIqA/D1tGAHt1cxsjNCPGDkMgnZ1f3z6jwl59gCK4BGAYYCw/ss48/tharabic.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://4.bp.blogspot.com/-2xRoT4k8-Fw/Xe6ApOkbVmI/AAAAAAAAIqA/D1tGAHt1cxsjNCPGDkMgnZ1f3z6jwl59gCK4BGAYYCw/s512/tharabic.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
